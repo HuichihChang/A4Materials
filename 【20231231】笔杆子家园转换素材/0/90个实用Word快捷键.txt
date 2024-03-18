@@ -1,0 +1,94 @@
+90个实用Word快捷键
+
+在缩小显示比例时移到预览首页  Ctrl+Home
+在缩小显示比例时移至最后一张预览页  Ctrl+End
+在“导航”任务窗格中打开搜索框  Ctrl+F
+替换文字、特定格式和特殊项 Ctrl+H
+定位至页、书签、脚注、表格、注释、图形或其他位置  Ctrl+G
+在最后四个已编辑过的位置之间进行切换 Alt+Ctrl+Z
+左侧的一个字符  向左键
+右侧的一个字符  向右键
+向左移动一个字词  Ctrl+向左键
+向右移动一个字词  Ctrl+向右键
+上移一段  Ctrl+向上键
+下移一段  Ctrl+向下键
+左移一个单元格（在表格中） Shift+Tab
+右移一个单元格（在表格中） Tab
+上移一行  向上键
+下移一行  向下键
+移至行尾  End
+移至行首  Home
+移至窗口顶端  Alt+Ctrl+Page UP
+移至窗口结尾  Alt+Ctrl+Page Down
+上移一屏（滚动）  Page UP
+下移一屏（滚动）  Page Down
+移至下页顶端  Ctrl+Page  Down
+移至上页顶端  Ctrl+Page UP
+移至文档结尾  Ctrl+End
+移至文档开头  Ctrl+Home
+移至前一处修订  Shift+F5
+打开一个文档后，转到该文档上一次关闭时您执行操作的位置 Shift+F5
+标记目录项 Alt+Shift+O
+标记引文目录项（引文）Alt+Shift+I
+插入索引项  Alt+Shift+X
+插入脚注  Alt+Ctrl+F
+插入尾注  Alt+Ctrl+D
+转到下一步脚注（在Word 2016 中） Alt+Shift+>
+转到上一步脚注（在Word 2016 中） Alt+Shift+<
+转到“告诉我你想要做什么”和“智能查找”（在Word 2016 中） Alt+Q
+向左删除一个字符 Backspace
+向左删除一个字词  Ctrl+Backspace
+向右删除一个字符  Delete
+向右删除一个字词  Ctrl+Delete
+将所选文字剪切到剪贴板  Ctrl+X
+撤消最后一个操作  Ctrl+Z
+将所选文本或图形复制到“Office 剪切板”  Ctrl+C
+将所选文本或图形剪切到“Office 剪贴板”  Ctrl+X
+从“Office 剪贴板”粘贴最新添加项或先前已粘贴的项 Ctrl+V
+打开“字体”对话框更改字符格式  Ctrl+D
+更改字母大小写  Shift+F3
+将所有字母设为大写  Ctrl+Shift+A
+应用加粗格式Ctrl+B
+应用下划线  Ctrl+U
+创建新文档  Ctrl+N
+打开文档  Ctrl+O
+关闭文档  Ctrl+W
+拆分文档窗口  Alt+Ctrl+S
+撤消拆分文档窗口  Alt+Shift+C或Alt+Ctrl+S
+保存文档  Ctrl+S
+打印文档  Ctrl+P
+切换到打印预览  Alt+Ctrl+I
+在放大的预览页上移动 箭头键
+在缩小显示比例时逐页翻阅预览页 Page UP或Page Down
+只给单词加下划线，不给空格加下划线  Ctrl+Shift+W
+给文字添加双下划线  Ctrl+Shift+D
+应用隐藏文字格式  Ctrl+Shift+H
+应用倾斜格式  Ctrl+I
+将所有字母设成小写  Ctrl+Shift+K
+应用下标格式（自动间距）  Ctrl+等号（=）
+应用上标格式（自动间距）  Ctrl+加号（+）
+删除手动设置的字符格式  Ctrl+Spacebar
+将所选部分更改为SYMBOL字体  Ctrl+Shift+Q
+打“字体”对话框更改字体  Ctrl+Shift+F
+增大字号  Ctrl+Shift+>
+减小字号  Ctrl+Shift+<
+逐磅增大字号  Ctrl+]
+逐磅减小字号  Ctrl+[
+从文本复制格式 Ctrl+Shift+C
+将已复制格式应用于文本  Ctrl+Shift+V
+在段落居中和左对齐之间切换  Ctrl+E
+在段落两端对齐和左对齐之间切换  Ctrl+J
+在段落右对齐和左对齐之间切换  Ctrl+R
+将段落左对齐  Ctrl+L
+左侧段落缩进  Ctrl+M
+取消左侧段落缩进  Ctrl+Shift+M
+创建悬挂缩进  Ctrl+T
+减小悬挂缩进量  Ctrl+Shift+T
+删除段落格式  Ctrl+Q
+审阅文字格式  Shift+F1（然后单击需审阅格式的文本）
+复制格式  Ctrl+Shift+C
+粘贴格式  Ctrl+Shift+V
+单倍行距  Ctrl+1
+双倍行距  Ctrl+2
+
+
